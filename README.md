@@ -28,6 +28,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🔒 **[private-document-rag](https://github.com/younesBH13/private-document-rag)** | 100% Offline confidential document assistant with page citations. | `Streamlit` `LangChain` `ChromaDB` `Ollama` |
+| 🤖 **[local-llm-modelfile-pack](https://github.com/younesBH13/local-llm-modelfile-pack)** | 8 Niche Ollama Modelfiles & QLoRA Fine-Tuning Kit (99.5% accuracy). | `QLoRA` `PyTorch` `Ollama` `GGUF` `Qwen 2.5` |
 | ⚡ **[llm-finetuning-toolkit](https://github.com/younesBH13/llm-finetuning-toolkit)** | Automated QLoRA pipeline to train & export LLMs directly to GGUF. | `Unsloth` `PyTorch` `Llama 3.1` `HuggingFace` |
 | 🎬 **[omniclip-ai-video-saas](https://github.com/younesBH13/omniclip-ai-video-saas)** | AI viral video clipping & social media scheduler platform. | `Next.js 15` `React 19` `Framer Motion` `Zustand` |
 | 💼 **[billflow-invoicing-saas](https://github.com/younesBH13/billflow-invoicing-saas)** | Full enterprise invoicing, quotation & fiscal billing system with RBAC. | `React` `TypeScript` `Express` `SQLite` |
